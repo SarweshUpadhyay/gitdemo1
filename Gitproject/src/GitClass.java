@@ -10,7 +10,7 @@
 {
    void color()
    {
-	   System.out.println(" i am parrot , i am green");
+	   System.out.println(" i am parrot , i am green and i can sing a song");
    }
 }
 
